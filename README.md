@@ -12,7 +12,9 @@ I can almost comfortably work with the following Programing Languages:
 - Rust
 - Python
 - Bash
+
 ~~- Golang~~ (Lost due to low usuage)
+
 - C (pointers break me)
 
 And the following GUI APIs:
