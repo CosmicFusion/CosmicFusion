@@ -1,4 +1,4 @@
-## Welcome to my Software Workshop... more like Junkyard!
+## Welcome to my Software Workshop
 
 My name is Mohammed Ward Khaled Al-Nakchbandi, I'm a high school student in Syria whose passion in game modding eventually pulled him into the rabbit hole of software development and Linux*.
 
@@ -12,7 +12,7 @@ I can almost comfortably work with the following Programing Languages:
 - Rust
 - Python
 - Bash
-- Golang
+~~- Golang~~ (Lost due to low usuage)
 - C (pointers break me)
 
 And the following GUI APIs:
@@ -21,7 +21,7 @@ And the following GUI APIs:
 - GTK3
 - Libadwaita
 
-In the future would hope to able to properly learn the above languages and write efficient code, that's less dependent on outsourcing to bash and other questionable practices, but with my extremely limited time, and resources this will do ***FOR NOW***.
+~~In the future would hope to able to properly learn the above languages and write efficient code, that's less dependent on outsourcing to bash and other questionable practices, but with my extremely limited time, and resources this will do ***FOR NOW***.~~ I think I have the hang of it now
 
 I also dream of becoming proficient in creating wine and Linux patches like GE and TKG
 
